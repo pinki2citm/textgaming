@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/textgaming/static/css/main.073c9b0a.css",
+    "main.js": "/textgaming/static/js/main.6410f4bb.js",
+    "static/js/787.b0bc8dda.chunk.js": "/textgaming/static/js/787.b0bc8dda.chunk.js",
+    "static/media/logo.svg": "/textgaming/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/textgaming/index.html",
+    "main.073c9b0a.css.map": "/textgaming/static/css/main.073c9b0a.css.map",
+    "main.6410f4bb.js.map": "/textgaming/static/js/main.6410f4bb.js.map",
+    "787.b0bc8dda.chunk.js.map": "/textgaming/static/js/787.b0bc8dda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6410f4bb.js"
+  ]
+}
